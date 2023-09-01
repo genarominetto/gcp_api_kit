@@ -32,6 +32,15 @@ Fork or clone the **gcp_api_kit** repository into a private GitHub repo.
 - Follow the diagram to change `googleapis_auth.py`.
 - Update `service_account_credentials.json` according to the diagram.
 
+
+
+![two_files](https://github.com/GenaroHacker/gcp_api_kit/assets/95663273/bf137a0f-d7a2-457e-b337-03264fb62b56)
+
+
+
+
+
+
 ## Open Main File in Google Colab
 
 Navigate to the main file and open it in Google Colab.
