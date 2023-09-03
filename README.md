@@ -1,7 +1,5 @@
-# Welcome to this Tutorial on gcp_api_kit
 
-Welcome to this tutorial, where you'll learn how to use the **gcp_api_kit** for interacting with Google Cloud APIs using Python and Google Colab. This toolkit supports a variety of functionalities, including but not limited to:
-
+Welcome to this tutorial for:
 - Managing Google Cloud Storage buckets
 - Utilizing Google Custom Search for web searches
 - Converting text to speech
