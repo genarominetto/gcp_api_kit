@@ -13,8 +13,7 @@ Welcome to this tutorial for:
 3. [Modify Files](#modify-files)
 4. [Open Main File in Google Colab](#open-main-file-in-google-colab)
 5. [Fill in Required Information](#fill-in-required-information)
-6. [Clone Repository in Colab](#clone-repository-in-colab)
-7. [Execute All Cells](#execute-all-cells)
+6. [Execute All Cells](#execute-all-cells)
 
 ## Prerequisites
 
@@ -50,14 +49,6 @@ Fill in the following:
 PROJECT_ID = '' #https://console.cloud.google.com
 GITHUB_TOKEN = '' #https://github.com/settings/tokens
 GITHUB_USER = '' #https://github.com/
-```
-
-## Clone Repository in Colab
-
-Run the code to clone your private GitHub repository into Colab.
-
-```python
-!git clone https://{GITHUB_TOKEN}@github.com/{GITHUB_USER}/gcp_api_kit.git
 ```
 
 ## Execute All Cells
